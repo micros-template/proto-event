@@ -7,7 +7,7 @@
 package epb
 
 import (
-	uepb "10.1.20.149/dropping/proto-event/pkg/uepb"
+	uepb "10.1.20.130/dropping/proto-event/pkg/uepb"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -96,7 +96,7 @@ const file_event_event_proto_rawDesc = "" +
 	"\fEventMessage\x120\n" +
 	"\n" +
 	"user_event\x18\x01 \x01(\v2\x0f.uepb.UserEventH\x00R\tuserEventB\a\n" +
-	"\x05eventB*Z(10.1.20.149/dropping/proto-event/pkg/epbb\x06proto3"
+	"\x05eventB*Z(10.1.20.130/dropping/proto-event/pkg/epbb\x06proto3"
 
 var (
 	file_event_event_proto_rawDescOnce sync.Once

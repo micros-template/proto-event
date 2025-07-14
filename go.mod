@@ -1,4 +1,4 @@
-module 10.1.20.149/dropping/proto-event
+module 10.1.20.130/dropping/proto-event
 
 go 1.24.2
 

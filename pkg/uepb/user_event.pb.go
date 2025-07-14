@@ -386,7 +386,7 @@ const file_user_user_event_proto_rawDesc = "" +
 	"updated_at\x18\b \x01(\x03R\tupdatedAtB\b\n" +
 	"\x06_image\"\x1d\n" +
 	"\vUserDeleted\x12\x0e\n" +
-	"\x02id\x18\x01 \x01(\tR\x02idB+Z)10.1.20.149/dropping/proto-event/pkg/uepbb\x06proto3"
+	"\x02id\x18\x01 \x01(\tR\x02idB+Z)10.1.20.130/dropping/proto-event/pkg/uepbb\x06proto3"
 
 var (
 	file_user_user_event_proto_rawDescOnce sync.Once
