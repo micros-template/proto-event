@@ -1,0 +1,12 @@
+syntax = "proto3";
+package epb;
+
+import "user/user_event.proto";
+
+option go_package = "10.1.20.149/dropping/proto-event/pkg/epb";
+
+message EventMessage {
+  oneof event {
+    uepb.UserEvent user_event = 1;
+  }
+}
