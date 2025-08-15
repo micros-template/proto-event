@@ -1,4 +1,4 @@
-module 10.1.20.130/dropping/proto-event
+module github.com/micros-template/proto-event
 
 go 1.24.2
 
